@@ -36,10 +36,11 @@ export default function App() {
                     </ul>
                 </div>
                 <div className='d-flex flex-column'>
-                    <BellIcon className="icon text-dark" />
-                    <EnvelopeIcon className="icon text-dark" />
-                    <FireIcon className="icon text-dark" />
-                    <UserCircleIcon className="icon text-dark" />
+                <button type="button" class="btn btn-secondary">+</button>
+                    <BellIcon className="" />
+                    <EnvelopeIcon className="" />
+                    <FireIcon className="" />
+                    <UserCircleIcon className="" />
                 </div>
             </div>
         </nav>
